@@ -1,0 +1,12 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "fforcetk__Season__c",
+                "referenceId": "fforcetk__Season__cRef1"
+            },
+            "Name": "2019",
+            "fforcetk__Year__c": "2019"
+        }
+    ]
+}

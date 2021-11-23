@@ -1,0 +1,49 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "fforcetk__Race__c",
+                "referenceId": "fforcetk__Race__cRef1"
+            },
+            "Name": "Spa",
+            "fforcetk__Season__c" : "@fforcetk__Season__cRef1",
+            "fforcetk__FastestLapBy__c": "@fforcetk__Driver__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "fforcetk__Race__c",
+                "referenceId": "fforcetk__Race__cRef2"
+            },
+            "Name": "Melbourne",
+            "fforcetk__Season__c" : "@fforcetk__Season__cRef1",
+            "fforcetk__FastestLapBy__c": "@fforcetk__Driver__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "fforcetk__Race__c",
+                "referenceId": "fforcetk__Race__cRef3"
+            },
+            "Name": "Shanghai",
+            "fforcetk__Season__c" : "@fforcetk__Season__cRef1",
+            "fforcetk__FastestLapBy__c": "@fforcetk__Driver__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "fforcetk__Race__c",
+                "referenceId": "fforcetk__Race__cRef4"
+            },
+            "Name": "Monte Carlo",
+            "fforcetk__Season__c" : "@fforcetk__Season__cRef1",
+            "fforcetk__FastestLapBy__c": "@fforcetk__Driver__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "fforcetk__Race__c",
+                "referenceId": "fforcetk__Race__cRef5"
+            },
+            "Name": "Budapest",
+            "fforcetk__Season__c" : "@fforcetk__Season__cRef1",
+            "fforcetk__FastestLapBy__c": "@fforcetk__Driver__cRef1"
+        }
+    ]
+}

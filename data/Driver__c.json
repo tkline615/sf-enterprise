@@ -1,0 +1,13 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "fforcetk__Driver__c",
+                "referenceId": "fforcetk__Driver__cRef1"
+            },
+            "Name": "Lewis Hamilton",
+            "fforcetk__TwitterHandle__c": "LewisHamilton",
+            "fforcetk__Nationality__c": "British"
+        }
+    ]
+}
