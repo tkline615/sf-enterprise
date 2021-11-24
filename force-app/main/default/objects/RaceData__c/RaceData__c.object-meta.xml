@@ -145,22 +145,22 @@
     <deploymentStatus>Deployed</deploymentStatus>
     <enableActivities>false</enableActivities>
     <enableBulkApi>true</enableBulkApi>
-    <enableFeeds>true</enableFeeds>
+    <enableFeeds>false</enableFeeds>
     <enableHistory>false</enableHistory>
     <enableLicensing>false</enableLicensing>
-    <enableReports>false</enableReports>
+    <enableReports>true</enableReports>
     <enableSearch>true</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
-    <externalSharingModel>ControlledByParent</externalSharingModel>
-    <label>Race</label>
+    <externalSharingModel>Private</externalSharingModel>
+    <label>Race Data</label>
     <nameField>
-        <label>Race Name</label>
-        <trackFeedHistory>true</trackFeedHistory>
-        <type>Text</type>
+        <displayFormat>RDID-{000000000}</displayFormat>
+        <label>Race Data Id</label>
+        <type>AutoNumber</type>
     </nameField>
-    <pluralLabel>Races</pluralLabel>
+    <pluralLabel>Race Data</pluralLabel>
     <searchLayouts/>
-    <sharingModel>ControlledByParent</sharingModel>
+    <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
 </CustomObject>
