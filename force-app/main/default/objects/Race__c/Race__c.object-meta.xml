@@ -156,7 +156,7 @@
     <label>Race</label>
     <nameField>
         <label>Race Name</label>
-        <trackFeedHistory>true</trackFeedHistory>
+        <trackFeedHistory>false</trackFeedHistory>
         <type>Text</type>
     </nameField>
     <pluralLabel>Races</pluralLabel>

@@ -149,13 +149,13 @@
     <enableHistory>false</enableHistory>
     <enableLicensing>false</enableLicensing>
     <enableReports>true</enableReports>
-    <enableSearch>true</enableSearch>
+    <enableSearch>false</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
     <label>Race Data</label>
     <nameField>
-        <displayFormat>RDID-{000000000}</displayFormat>
+        <displayFormat>RDID-{00000000}</displayFormat>
         <label>Race Data Id</label>
         <type>AutoNumber</type>
     </nameField>

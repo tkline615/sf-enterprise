@@ -12,13 +12,14 @@
             <operation>equals</operation>
             <value>True</value>
         </filterItems>
-        <infoMessage>Only Drivers whose status is active are permitted.</infoMessage>
+        <infoMessage>Only Drivers who&apos;s status is active are permitted.</infoMessage>
         <isOptional>false</isOptional>
     </lookupFilter>
     <referenceTo>Driver__c</referenceTo>
     <relationshipLabel>Contestants</relationshipLabel>
     <relationshipName>Contestants</relationshipName>
-    <required>true</required>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
     <trackTrending>false</trackTrending>
     <type>Lookup</type>
 </CustomField>

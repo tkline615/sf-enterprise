@@ -3,7 +3,7 @@
     <fullName>DriverName__c</fullName>
     <externalId>false</externalId>
     <fieldManageability>DeveloperControlled</fieldManageability>
-    <label>DriverName</label>
+    <label>Driver Name</label>
     <length>60</length>
     <required>false</required>
     <type>Text</type>
